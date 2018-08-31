@@ -1,0 +1,1014 @@
+,rental_id,building_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,submarket,borough
+5,2869,8967298,3600,3.0,2,900,4,1.0,15,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+10,4318,57792653,3900,3.0,2,1000,4,9.0,8,0,0,0,0,1,0,0,0,Greenwood,South Brooklyn,Brooklyn
+13,6265,20382303,2700,2.0,1,900,4,2.0,96,0,0,0,0,0,0,0,0,Gowanus,Northwest Brooklyn,Brooklyn
+17,24,96767093,4900,1.0,1,1216,6,3.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+23,9481,25024137,3900,0.0,1,1100,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+33,849,26340900,2750,1.0,1,700,12,3.0,9,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+38,6029,33949660,2700,2.0,1,750,7,14.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+39,3686,30668825,4905,2.0,2,1114,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+40,7616,68798163,2000,1.0,1,700,4,2.0,85,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+45,863,62708999,3200,1.0,1,800,5,3.0,27,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+52,8742,21755311,2950,2.0,1,1000,4,3.0,85,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+56,9103,84738920,1950,2.0,1,950,5,2.0,75,0,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+62,10632,89956739,1799,1.0,1,650,7,3.0,8,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+74,3887,10817685,5317,2.0,2,981,3,5.0,85,1,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+79,4544,33090883,2300,2.0,1,750,14,1.0,85,0,0,0,0,0,0,0,0,Red Hook,Northwest Brooklyn,Brooklyn
+82,1026,32260830,2400,0.0,1,450,1,30.0,9,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+93,2201,88520811,3045,1.0,1,589,1,3.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+101,5050,22254989,3790,1.0,1,681,2,7.0,90,1,1,1,1,1,0,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+112,10876,80161961,2500,0.0,1,525,7,4.0,66,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+124,5912,72456320,2600,3.0,1,1200,5,3.0,91,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+126,6233,91179322,3226,1.0,1,976,3,5.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+128,726,7163201,4995,2.0,2,1251,5,4.0,8,0,1,1,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+129,5075,10817685,6950,3.0,2,1172,3,4.0,85,1,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+139,3104,48187753,3500,3.0,1,950,5,2.0,115,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+141,1387,10574372,3080,1.0,1,655,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+142,8676,11588677,6992,2.0,2,1213,2,7.0,0,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+148,9776,16444992,6000,4.0,2,1800,3,2.0,56,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+152,8940,30888541,2700,2.0,2,750,11,2.0,96,0,0,0,0,0,0,0,0,Columbia St Waterfront District,Northwest Brooklyn,Brooklyn
+155,7240,33780897,4246,2.0,2,1100,4,6.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+157,1388,79041424,2299,3.0,1,1000,8,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+158,7568,18850963,2400,1.5,1,750,5,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+160,7968,50551718,2485,1.0,1,703,10,5.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+163,6408,87722250,4000,1.0,2,900,3,1.0,106,1,1,1,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+166,7191,31163661,2995,4.0,1,2000,5,1.0,4,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+175,2291,8716928,1500,1.0,1,800,6,3.0,52,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+176,508,93684714,4370,2.0,2,933,1,25.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+180,8094,83144502,2400,2.0,1,800,8,2.0,111,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+181,5659,42310948,3200,1.0,1,701,10,13.0,6,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+183,4123,68035427,3500,4.0,2,1500,7,1.0,86,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+188,5977,37993725,1600,1.5,1,800,3,3.0,109,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+198,10259,11176577,1650,1.0,1,686,6,4.0,57,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+205,4857,76146604,2600,3.0,1,800,3,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+209,10421,2811462,2400,1.0,1,875,2,2.0,85,0,0,0,0,0,0,0,0,Gowanus,Northwest Brooklyn,Brooklyn
+215,4540,63465796,1800,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+234,8302,61724414,2295,1.5,1,600,4,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+235,10395,64837942,4700,3.0,2,1300,4,3.0,85,1,1,0,1,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+238,2915,15094736,1875,0.0,1,460,7,1.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+239,3611,38212064,2900,2.0,1,756,3,2.0,9,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+240,9558,48753921,3600,3.0,1,1000,2,4.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+250,1997,86088937,2450,1.0,1,800,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+255,8915,36596774,3200,2.0,1,1000,3,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+262,1471,83863916,3300,1.0,1,974,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+264,1656,53067637,8900,3.0,2,2000,8,3.0,102,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+268,2972,66503950,2195,0.0,1,550,3,4.0,85,1,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+271,4182,36298196,2900,1.0,1,662,1,4.0,9,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+275,7807,63775229,2400,3.0,1,1100,3,4.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+284,7036,29791287,2000,2.0,1,850,8,5.0,80,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+292,6236,28269241,3100,1.0,1,820,1,10.0,96,1,1,1,1,1,1,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+296,7906,77143827,1650,1.0,1,620,1,1.0,90,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+301,780,82658811,3090,1.0,1,675,1,16.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+302,7915,10574372,4120,2.0,2,917,7,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+309,9384,42310948,4079,2.0,2,1154,10,14.0,6,1,1,1,0,1,1,1,1,Clinton Hill,Northwest Brooklyn,Brooklyn
+316,10586,9491303,1984,1.0,1,761,6,55.0,89,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+321,802,82658811,2745,0.0,1,476,1,37.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+329,10047,23106060,1695,1.0,1,700,7,3.0,53,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+337,10653,12151286,2850,1.0,1,800,7,3.0,12,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+338,10587,9491303,2123,1.0,1,720,6,58.0,89,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+345,1189,47908911,2250,1.0,0,700,9,1.0,85,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+360,8860,29202488,4995,2.0,2,1400,2,6.0,96,1,0,1,1,0,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+365,3194,82658811,2600,0.0,1,469,1,39.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+366,10238,60384091,5300,2.0,2,1211,9,6.0,0,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+370,11053,83863916,3786,2.0,1,958,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+371,8870,96767093,5300,2.0,1,1020,6,3.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+372,5046,84510060,2900,3.0,1,1500,1,2.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+373,5637,42310948,2975,1.0,1,701,10,4.0,6,1,0,0,1,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+376,7844,80477525,1500,1.0,1,600,6,3.0,85,0,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+379,7834,48645350,4000,1.5,1,828,5,26.0,6,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+389,410,90947716,2200,0.0,1,400,5,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+390,9119,82249600,6300,2.0,2,1217,0,6.0,116,0,0,1,1,1,1,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+394,4892,46016462,2400,0.0,1,450,7,2.0,15,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+395,28,79713930,2350,1.0,1,550,2,2.0,88,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+400,10374,88520811,5145,2.0,2,1106,1,21.0,17,1,0,0,0,1,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+419,7360,26659899,2900,0.0,1,582,1,4.0,10,0,0,1,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+423,9782,53717970,1400,1.0,0,650,7,11.0,92,0,0,0,0,0,0,0,0,Brownsville,East Brooklyn,Brooklyn
+425,9831,61671467,2900,3.0,2,1335,5,4.0,9,0,0,0,1,1,1,0,0,Gravesend,South Brooklyn,Brooklyn
+428,7586,43243355,1995,1.0,1,1000,2,5.0,83,0,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+436,8103,90737135,2650,2.0,1,800,2,3.0,106,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+437,1442,17255633,2300,1.0,1,1000,7,1.0,107,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+442,3488,36761941,5000,2.0,2,1124,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+448,1405,23741299,5195,2.0,2,1085,6,4.0,8,1,0,1,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+459,3525,87216161,3600,0.0,1,1088,5,8.0,90,0,1,1,0,1,1,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+460,1069,36761941,4850,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+461,5422,44585183,3500,3.0,1,914,5,1.0,85,0,0,1,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+465,3845,6103895,3800,2.0,2,863,5,6.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+469,2054,82658811,2575,0.0,1,503,1,41.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+470,6427,65295306,3000,2.0,1,1400,1,2.0,117,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+476,10257,53433230,2200,0.0,1,522,11,4.0,88,0,0,0,0,0,1,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+483,11207,45012515,2428,2.0,1,1092,5,13.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+488,9572,57981926,1600,0.0,1,550,6,3.0,81,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+497,2050,58253476,4488,2.0,2,930,3,4.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+517,9207,36761941,4950,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+522,6256,96767093,3495,0.0,1,815,6,4.0,88,1,0,0,0,1,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+524,8446,37667204,1950,0.0,1,431,3,6.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+526,9288,16342599,3500,1.0,1,751,4,3.0,5,1,0,0,0,1,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+532,6043,88127054,2650,2.0,2,1073,7,4.0,96,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+533,10258,10574372,5050,2.0,2,1071,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+541,11343,95786668,2200,2.0,1,1200,3,4.0,103,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+545,7784,98898797,2150,2.0,1,900,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+549,9306,13767927,15750,3.0,3,3056,4,6.0,96,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+557,7846,82658811,4215,2.0,2,976,1,23.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+562,10873,55781863,2348,1.0,1,760,1,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+563,6714,45012515,1581,0.0,1,513,5,12.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+568,8220,69131476,2850,3.0,2,1500,7,2.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+573,4250,32260830,3171,1.0,1,711,1,29.0,9,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+584,6353,37241218,3300,2.0,1,795,2,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+605,7296,42030046,3225,2.0,1,1200,3,6.0,87,1,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+610,10592,97878645,3000,2.0,1,700,1,3.0,108,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+615,6294,58666729,1675,1.0,1,805,4,4.0,59,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+623,3843,6103895,2225,0.0,1,536,5,1.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+631,3151,68483403,5800,1.0,1,1293,5,10.0,100,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+639,5286,62941584,1550,1.0,1,625,7,9.0,94,1,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+641,8157,53569564,5346,2.0,1,842,5,6.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+651,2282,82658811,3155,1.0,1,677,1,29.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+658,6037,92956624,2400,2.0,1,700,1,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+673,8853,8456299,2250,1.0,1,611,2,9.0,9,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+674,8771,61582814,2500,0.0,1,634,6,3.0,11,0,0,1,1,1,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+687,5642,55971172,1500,0.0,0,400,2,1.0,103,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+689,6134,14712360,11000,4.0,3,3243,2,29.0,89,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+699,3551,26340900,3800,2.0,1,1312,12,1.0,9,1,0,0,1,1,1,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+701,844,82225553,2395,3.0,1,1000,2,3.0,101,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+703,6986,90580778,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+707,3155,58926355,3200,3.0,1,1000,2,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+724,4807,83863916,4550,2.0,1,1200,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+726,7660,93684714,4615,2.0,2,922,1,16.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+727,591,89678417,2850,2.0,1,850,1,3.0,13,1,0,0,0,0,1,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+735,4106,75971014,2800,4.0,1,1000,6,1.0,110,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+737,10918,80234585,3000,1.0,1,731,5,6.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+747,1681,83863916,3900,2.0,2,914,3,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+749,7506,39031597,2814,0.0,1,615,8,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+754,1898,36761941,5299,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+755,1361,1449225,1550,1.0,1,650,3,2.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+762,6177,36178653,2200,1.0,1,475,1,3.0,85,0,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+777,4284,52496366,6875,3.0,2,1200,3,6.0,1,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+782,8921,80939102,2978,1.0,1,657,2,33.0,3,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+784,4485,82658811,5550,2.0,2,1132,1,47.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+788,6860,49449598,1400,0.0,1,550,5,5.0,63,1,0,0,0,0,0,0,0,Ocean Parkway,South Brooklyn,Brooklyn
+793,10511,53972210,3875,2.0,2,1100,7,12.0,6,1,1,0,0,1,1,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+797,6958,8398861,1650,1.0,1,800,3,3.0,85,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+799,10119,61582814,4800,2.0,2,1208,6,16.0,11,1,0,1,0,0,0,1,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+803,5789,59003976,1750,1.0,1,500,2,3.0,85,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+816,75,89892173,3305,0.0,1,515,3,6.0,16,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+820,9192,26340900,3300,2.0,1,743,12,3.0,9,1,1,0,1,1,1,0,1,Clinton Hill,Northwest Brooklyn,Brooklyn
+821,5179,7163201,4695,2.0,2,862,5,3.0,8,1,1,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+833,9058,90808489,2200,1.0,1,750,5,5.0,86,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+836,5091,12068815,3070,1.0,1,613,9,10.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+839,5853,50047598,3445,1.0,1,617,6,4.0,92,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+843,9687,98528691,2250,2.0,1,733,3,4.0,100,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+848,7347,57889478,1775,1.0,1,750,10,4.0,65,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+850,2626,53891741,4675,2.0,2,1098,3,2.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+859,2691,5936578,3795,2.0,1,770,3,8.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+860,6003,89575819,5000,2.0,2,1124,4,4.0,10,0,1,1,0,1,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+862,8966,56724744,4695,2.0,2,1100,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+865,7913,53569564,3348,0.0,1,426,5,16.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+868,6620,90580778,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+871,7612,82658811,2970,1.0,1,677,1,15.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+872,2679,82658811,2840,0.0,1,505,1,44.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+883,6768,33212300,3000,1.0,1,930,2,2.0,11,0,0,1,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+891,3406,80939102,3461,1.0,1,725,2,23.0,3,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+902,8116,55781863,2450,1.0,1,750,1,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+905,4298,90837139,2599,2.0,1,800,5,1.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+915,62,97405164,2100,1.0,1,900,7,1.0,13,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+917,6732,40475276,1950,0.0,1,521,2,2.0,2,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+919,10788,94467844,3900,1.0,1,865,10,6.0,116,0,0,1,0,1,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+931,10850,60105128,2300,2.0,1,1000,7,6.0,55,0,1,0,1,0,1,0,0,Bay Ridge,South Brooklyn,Brooklyn
+932,2690,11388348,2300,1.0,1,750,4,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+934,7383,16356936,3000,3.0,1,1000,14,1.0,96,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+935,6544,35466664,2400,2.0,1,700,4,4.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+939,4639,53717970,1350,1.0,1,750,7,9.0,92,0,0,0,0,0,0,0,0,Brownsville,East Brooklyn,Brooklyn
+943,10629,16496414,3400,3.0,2,1500,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+950,9672,33201777,2150,1.0,1,650,5,2.0,86,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+956,470,81299865,2575,0.0,1,725,2,4.0,85,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+962,5941,54670778,2995,1.0,1,765,9,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+967,9601,63767762,6000,3.0,2,1798,1,13.0,88,0,0,1,0,0,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+976,5135,69131476,2850,3.0,2,1500,7,2.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+980,9435,38496344,1325,0.0,1,300,1,3.0,85,0,0,0,0,0,0,0,0,Sunset Park,South Brooklyn,Brooklyn
+987,11061,80329118,2650,1.0,1,600,7,2.0,117,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+989,3096,4040599,4595,3.0,1,1000,7,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+995,9747,81552123,2799,1.0,1,700,6,2.0,11,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+1001,9067,23496495,2200,2.0,1,800,3,2.0,115,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1002,8078,25585133,3800,1.0,1,1000,3,4.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1006,6169,83863916,4361,3.0,1,914,3,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1008,5034,2915226,1900,2.0,1,900,4,1.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1014,7500,29202488,3200,1.0,1,796,2,2.0,96,0,0,1,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+1020,1151,25024137,3300,2.0,1,1300,3,2.0,85,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1029,9801,97730748,2650,1.0,1,750,1,2.0,92,1,0,1,0,1,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1036,189,96767093,4299,1.0,1,901,6,10.0,88,0,1,0,1,1,0,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1037,2590,9421339,2400,3.0,1,900,3,4.0,102,0,0,0,0,0,0,0,0,Ditmas Park,South Brooklyn,Brooklyn
+1041,402,30668825,2640,0.0,1,472,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1046,8119,65460309,2300,0.0,1,550,2,4.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1049,6987,85991689,2400,0.0,1,500,6,12.0,7,0,1,1,1,1,1,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1055,3543,53972210,2300,0.0,1,550,7,5.0,6,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1060,3656,36101243,2950,1.0,1,660,14,4.0,96,1,0,0,0,0,1,0,0,Columbia St Waterfront District,Northwest Brooklyn,Brooklyn
+1062,10845,28635327,2300,3.0,1,850,7,1.0,92,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1069,3805,58529529,2600,1.0,1,655,5,2.0,5,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1070,1268,88668971,3385,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1083,6298,33044796,1800,1.0,1,779,8,4.0,86,1,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1085,7277,53388377,4500,2.0,1,1571,5,6.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1086,3111,56724744,4595,2.0,2,1088,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+1088,480,51127725,2760,1.0,1,405,4,4.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1107,7967,50551718,2530,1.0,1,701,10,6.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1111,8122,57169406,2495,3.0,1,900,1,3.0,9,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1112,9321,48645350,3495,1.0,1,882,5,3.0,6,0,0,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+1117,3520,83863916,3850,2.0,2,1127,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1120,10853,77296737,13500,4.0,3,2364,6,5.0,8,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+1122,8284,14842171,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1124,5896,80161961,2500,0.0,1,525,7,3.0,66,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1125,4972,41654182,3500,2.0,1,1000,11,3.0,116,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1130,2773,43382434,4195,2.0,2,886,8,2.0,3,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1133,9208,36761941,9400,3.0,2,1274,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1134,2864,8456299,2550,2.0,1,790,2,2.0,9,1,0,1,1,1,0,0,1,Bushwick,East Brooklyn,Brooklyn
+1142,4524,36761941,5100,2.0,2,1123,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1145,3050,70132426,3369,1.0,1,717,4,9.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1153,216,81299865,2775,2.0,1,675,2,3.0,85,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1157,1033,10574372,3029,1.0,1,655,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1168,3715,68415493,4800,3.0,2,1500,7,1.0,106,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1170,4904,88377790,5295,2.0,2,1254,1,19.0,10,0,0,0,0,0,0,1,1,DUMBO,Northwest Brooklyn,Brooklyn
+1176,1945,39925217,2395,1.0,1,700,6,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+1180,9125,56319932,2995,1.0,2,1000,4,4.0,3,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1182,9802,30825940,5250,3.0,2,1300,4,7.0,7,1,1,1,0,0,1,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1186,7117,48645350,2975,0.0,1,605,5,23.0,6,0,0,0,0,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+1190,11244,14842171,4795,3.0,1,1100,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1200,7349,35228272,2450,2.0,1,1000,7,2.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1202,10394,64837942,4500,3.0,1,1000,4,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1203,7196,28025279,2650,2.0,1,777,4,1.0,15,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+1204,7813,14842171,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1205,3372,83076341,3100,3.0,1,710,9,2.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1211,3658,82658811,3370,1.0,1,677,1,20.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1217,5078,45012515,1832,1.0,1,690,5,11.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+1220,2030,78042499,6500,1.0,1,1000,8,2.0,51,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1230,5681,94563271,2780,0.0,1,520,5,2.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1246,6501,59679128,3067,2.0,1,775,9,3.0,106,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+1255,10672,98559289,1600,0.0,1,500,6,10.0,54,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+1256,8922,80939102,2650,0.0,1,516,2,12.0,3,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+1257,8680,21330430,3375,1.0,1,750,1,40.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1261,1363,26340900,2850,1.0,1,825,12,3.0,9,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1264,4886,48110398,3994,2.0,1,800,7,3.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1266,7756,33271440,3875,2.0,3,1274,5,4.0,11,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1267,9205,1828100,3600,1.0,1,1100,4,4.0,96,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1273,2467,2253711,3500,2.0,2,1014,4,5.0,9,0,0,0,0,0,0,0,0,Ditmas Park,South Brooklyn,Brooklyn
+1279,865,93684714,2615,0.0,1,430,1,24.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1280,10910,35573175,2200,1.0,1,825,3,6.0,54,0,0,0,0,0,0,0,0,Ditmas Park,South Brooklyn,Brooklyn
+1286,3375,82658811,3120,1.0,1,677,1,28.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1291,2914,15094736,3299,3.0,1,972,7,3.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+1294,8109,80234585,3000,1.0,1,676,5,12.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1301,4762,58623698,4545,2.0,2,852,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1302,10825,22684561,1400,0.0,1,550,2,4.0,87,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1304,1425,83863916,3300,2.0,1,626,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1305,5807,48645350,5995,2.0,2,1179,5,26.0,6,0,0,0,1,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+1307,4248,68886631,1900,2.0,1,800,7,3.0,85,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1312,5040,94563271,2630,0.0,1,408,5,9.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1317,6856,11176577,1895,2.0,1,930,6,5.0,57,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+1318,776,47832959,1895,2.0,1,750,4,2.0,107,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1327,6622,75363035,4500,3.0,1,1500,2,1.0,6,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1328,7815,2922617,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1329,6557,36761941,3400,1.0,1,723,8,3.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1333,10127,70136198,2775,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1336,544,47243497,2700,1.0,1,700,6,3.0,96,0,0,1,1,1,1,0,1,Carroll Gardens,Northwest Brooklyn,Brooklyn
+1337,5186,12068815,2925,1.0,1,664,9,9.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1340,3127,39185382,2400,1.0,1,568,4,2.0,1,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1341,9425,8204128,1900,2.0,1,900,3,4.0,85,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1344,4707,75306297,1650,1.0,1,500,8,2.0,91,0,0,0,0,0,0,0,0,Red Hook,Northwest Brooklyn,Brooklyn
+1349,9197,47666945,4145,2.0,1,709,7,4.0,157,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+1352,8961,57792653,2500,1.0,2,680,4,2.0,8,0,0,1,0,0,0,1,0,Greenwood,South Brooklyn,Brooklyn
+1357,5374,6212493,2300,1.0,1,700,13,4.0,96,0,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+1360,3085,52192579,3195,2.0,1,1200,3,4.0,10,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1362,9973,26340900,2750,1.0,1,700,12,4.0,9,0,0,0,0,1,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1368,6584,12630338,1650,0.5,1,750,4,1.0,75,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+1376,4300,39211404,4500,2.0,2,1800,10,2.0,1,0,0,0,0,0,0,0,0,Manhattan Beach,South Brooklyn,Brooklyn
+1389,9649,41524649,3199,1.5,0,750,4,3.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1395,8123,54126359,4300,2.0,2,1222,6,15.0,13,0,1,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+1396,2203,8446279,2000,0.0,1,414,8,2.0,85,1,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+1399,7300,10574372,2534,0.0,1,437,7,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1404,5975,75093357,2500,1.0,1,800,2,3.0,86,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1406,1846,36289833,3750,3.0,2,1300,2,2.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1418,5958,78520367,3400,0.0,2,705,5,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1421,5345,88520811,3225,1.0,1,590,1,25.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1445,729,54126359,4200,2.0,2,1222,6,14.0,13,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1454,7780,92958527,2488,1.0,1,500,7,5.0,116,0,0,0,0,1,0,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1457,7515,24093766,2550,1.0,1,613,6,3.0,10,0,1,1,1,1,1,1,0,Park Slope,Prospect Park,Brooklyn
+1459,8642,93946738,3250,2.0,1,900,6,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1467,11173,70132426,3411,1.0,1,713,4,18.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1486,9471,40291653,1500,1.0,1,700,6,3.0,60,0,0,0,0,0,0,0,0,Ocean Parkway,South Brooklyn,Brooklyn
+1494,533,47536967,1995,2.0,2,845,3,1.0,111,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1498,11332,82658811,2510,0.0,1,476,1,36.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1500,6739,53569564,3900,1.0,1,625,5,5.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1504,2463,93246353,3600,2.0,1,1100,4,12.0,58,0,0,1,1,1,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1507,5923,9635603,3000,4.0,1,1200,2,2.0,106,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1511,3782,88520811,3320,1.0,1,578,1,18.0,17,1,0,0,0,0,1,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1516,9450,16496414,3400,3.0,2,1500,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1520,7434,93684714,2495,0.0,1,487,1,14.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1531,1765,82249600,6600,2.0,2,1218,0,6.0,116,1,0,1,1,1,1,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1540,9555,59798461,2000,0.0,1,450,8,1.0,111,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+1541,6326,5966829,2570,2.0,1,950,5,8.0,6,1,0,0,0,0,1,0,0,Flatbush,South Brooklyn,Brooklyn
+1542,4079,84441526,2900,1.0,1,750,7,2.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1552,4668,16933294,2000,1.0,1,650,2,4.0,85,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1553,9524,30668825,3204,1.0,1,616,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1558,9543,26659899,6895,3.0,2,1601,1,26.0,10,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1576,4078,14193280,3499,2.0,2,1600,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1578,9755,16356936,3800,3.0,1,1000,14,1.0,96,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+1590,7261,92625779,3700,3.0,1,1500,3,2.0,110,0,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+1591,5352,58623698,3540,1.0,1,683,3,6.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1592,4375,10574372,2704,0.0,1,437,7,7.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1606,3648,52416803,1425,1.0,1,650,4,1.0,88,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1607,8272,9880367,1950,2.0,1,800,4,2.0,106,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+1611,6701,22938630,1581,0.0,1,513,2,5.0,52,0,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+1618,7827,14842171,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1619,6422,89500156,2000,1.0,1,1064,9,5.0,84,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1625,5557,36129383,2500,1.0,1,804,7,6.0,90,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+1626,10646,90452713,3995,3.5,2,1500,3,1.0,85,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+1632,8646,94563271,5320,2.0,2,992,5,11.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1646,1794,8410155,2590,2.0,1,800,2,3.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1654,4263,63767762,5500,3.0,2,1652,1,10.0,88,1,0,1,0,0,0,1,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1655,3072,14842171,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1659,1154,16832711,3950,3.0,2,1450,2,4.0,79,0,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+1665,7953,86251329,2350,2.0,1,1000,3,12.0,111,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1669,10582,9491303,3415,4.0,2,1630,6,40.0,89,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+1676,10935,92011396,2500,0.0,1,441,2,5.0,5,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1699,2116,63767762,4650,2.0,2,1295,1,17.0,88,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1701,1988,88520811,3340,1.0,1,518,1,8.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+1703,3667,36491415,1700,2.0,1,900,9,2.0,85,0,0,0,0,0,0,0,0,Dyker Heights,South Brooklyn,Brooklyn
+1728,2777,25294143,2450,2.0,1,1100,4,2.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1729,8660,47160440,2100,2.5,1,1000,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1730,9040,22254989,7200,3.0,2,1427,2,5.0,90,1,0,0,0,1,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1737,3902,76827767,1950,2.0,1,600,8,3.0,92,0,0,0,0,0,0,0,0,Sunset Park,South Brooklyn,Brooklyn
+1738,6481,39346685,2300,1.0,1,680,9,3.0,88,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+1739,9151,89892173,3725,1.0,1,661,3,8.0,16,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1740,7619,41524649,3100,1.0,1,950,4,1.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1742,3911,31342007,3300,3.0,1,900,1,4.0,6,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1746,5996,7296432,2775,2.0,1,900,5,2.0,85,0,1,0,1,1,0,0,1,Greenpoint,North Brooklyn,Brooklyn
+1750,9593,14712360,3600,1.0,1,824,2,13.0,89,0,1,1,0,1,0,0,1,Fort Greene,Northwest Brooklyn,Brooklyn
+1759,924,87208351,2500,1.0,1,589,5,3.0,10,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1763,11122,84061328,3600,1.0,1,1000,3,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1767,7935,85097960,3099,2.0,1,750,3,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1772,4887,48110398,3995,2.0,1,850,7,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1773,4425,97069823,2500,1.0,1,780,10,2.0,126,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1774,9484,78969040,1900,1.0,1,800,3,4.0,85,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+1775,6488,91179322,2729,1.0,1,683,3,2.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1779,1520,8028046,2500,1.0,1,800,4,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1788,2838,38320757,2417,2.0,2,850,7,4.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+1789,2781,45314824,6250,2.0,2,1200,2,11.0,5,0,0,1,0,0,1,1,0,Williamsburg,North Brooklyn,Brooklyn
+1795,119,80123104,2550,1.0,1,673,8,4.0,143,1,0,0,0,0,1,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+1804,6252,17020325,1700,1.0,1,650,6,4.0,56,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+1813,6288,94658633,2195,2.0,1,1225,3,5.0,59,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+1817,9196,94563271,3805,1.0,1,706,5,9.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1820,1582,26345042,2750,2.0,1,900,7,1.0,96,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1825,1789,94211472,4000,3.0,1,800,3,1.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1826,2788,62009406,3950,2.0,1,929,3,2.0,7,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1828,6264,98413378,2446,2.0,1,1000,8,1.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1832,8380,25395446,3800,3.0,1,1300,3,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1833,1345,82658811,2635,0.0,1,503,1,19.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1836,9982,85523471,2600,2.0,1,900,3,3.0,81,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1837,7715,93225963,1800,1.0,1,700,5,1.0,87,0,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1843,3273,39111771,1850,1.0,1,700,11,2.0,1,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1846,11041,53545717,2500,1.0,1,800,5,3.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1847,4429,15237931,2900,1.0,1,900,2,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1860,2702,30668825,3337,1.0,1,677,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1866,3950,44536999,2150,1.0,1,700,11,3.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+1872,1436,7163201,3000,0.0,1,645,5,5.0,8,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1876,1223,30668825,4850,2.0,2,1114,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1877,1573,82658811,3295,1.0,1,675,1,15.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1878,7896,5936578,3695,2.0,1,800,3,2.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+1888,9015,93044241,2200,1.0,1,713,3,5.0,86,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1895,8366,88668971,3385,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1904,9853,67107607,4395,2.0,2,1300,3,1.0,79,0,0,0,0,0,1,0,0,Prospect Heights,Prospect Park,Brooklyn
+1905,8938,55542571,4500,2.0,1,1500,4,4.0,85,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+1906,10426,88341221,3000,0.0,1,794,2,3.0,8,0,1,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+1916,2774,74680498,4390,2.0,2,870,8,3.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1924,5151,97142544,5000,2.0,2,1150,4,4.0,9,0,1,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+1935,6232,91179322,2695,1.0,1,645,3,4.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+1941,3430,23741299,6100,2.0,2,1104,6,4.0,8,1,0,0,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+1951,4305,4062336,3675,1.0,1,704,3,1.0,116,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+1954,4712,71222722,3000,1.0,1,638,8,4.0,10,0,1,0,1,1,1,0,1,Greenpoint,North Brooklyn,Brooklyn
+1957,5784,81950066,3600,3.0,1,969,9,3.0,86,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+1959,7474,61021364,2800,1.0,1,1000,13,3.0,86,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+1963,6963,41939749,2200,1.0,1,500,9,3.0,85,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1966,662,39031597,2835,0.0,1,615,8,6.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1974,6946,1446554,2199,1.5,1,750,4,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+1975,10674,86368567,1750,0.0,1,500,8,1.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1979,3959,62465250,3795,3.0,1,1150,6,1.0,116,0,1,1,1,1,1,0,1,Cobble Hill,Northwest Brooklyn,Brooklyn
+1984,4743,73536462,1425,0.0,1,490,6,1.0,56,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+1986,4252,68483403,9000,2.0,2,2005,5,4.0,100,0,0,0,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+1989,2740,80015475,2200,1.0,1,400,6,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+1997,6816,98462958,3600,2.0,2,1000,7,2.0,26,0,0,1,1,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+2019,1144,49859638,2200,1.0,1,800,6,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2026,4397,3520542,6250,1.0,1,2000,9,4.0,85,0,0,0,0,0,0,0,0,Red Hook,Northwest Brooklyn,Brooklyn
+2036,7656,9295280,2600,0.0,1,470,2,2.0,6,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2047,6277,67385142,3150,1.0,1,775,4,2.0,66,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2054,9760,34465991,3195,2.0,1,950,8,2.0,15,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2058,812,53569564,4314,1.0,1,625,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2066,10172,48861964,2800,1.0,1,641,3,4.0,7,0,1,1,1,1,0,0,1,Gowanus,Northwest Brooklyn,Brooklyn
+2070,5745,36215714,3750,2.0,2,1100,13,3.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+2073,7611,82658811,2910,1.0,1,677,1,10.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2074,10404,72422663,2650,2.0,1,821,7,3.0,15,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2079,2165,68358331,1800,2.0,1,1000,9,3.0,91,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2086,2437,88127054,3500,2.0,2,1139,7,11.0,96,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2088,7497,88153268,4600,2.0,2,1000,2,2.0,86,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2091,6619,14842171,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2098,5090,12068815,3092,1.0,1,676,9,6.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2100,10588,36129383,1938,1.0,1,603,7,5.0,90,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+2102,8953,43175458,1995,2.0,1,995,5,6.0,58,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+2105,4144,16832711,4500,3.0,2,1600,2,4.0,79,0,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+2107,967,14712360,5500,2.0,2,1355,2,13.0,89,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+2113,7536,95715709,3450,2.0,1,900,0,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2125,4122,48645350,3950,1.0,1,775,5,19.0,6,0,1,0,1,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+2128,6042,88127054,2650,2.0,2,1003,7,6.0,96,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2139,6437,35227448,4000,3.0,1,1800,6,1.0,5,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2141,5421,66373509,2400,0.0,1,475,9,2.0,16,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2142,10919,53891741,3000,1.0,1,750,3,2.0,7,0,1,1,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+2147,4423,97008507,4200,2.0,2,910,3,2.0,12,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2150,3941,96767093,4000,1.0,1,1085,6,4.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2152,1171,40051332,5995,2.0,2,1033,7,12.0,9,0,1,1,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+2157,8460,99204874,4950,2.0,2,1300,3,3.0,13,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2170,2937,38573578,2300,1.0,1,500,6,3.0,146,0,0,0,0,1,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+2179,8892,80939102,3000,0.0,1,511,2,30.0,3,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+2182,11337,88520811,6565,3.0,2,1207,1,27.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2184,5922,85495299,3100,2.0,1,850,0,7.0,70,0,1,0,1,1,1,1,1,Clinton Hill,Northwest Brooklyn,Brooklyn
+2186,47,39031597,3333,0.0,1,1025,8,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2192,4223,99155070,5250,3.0,2,1570,2,7.0,10,1,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+2197,10819,98413378,2650,2.0,1,1000,8,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2200,673,96767093,12000,3.0,2,2571,6,2.0,88,0,0,0,1,1,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2209,6907,77296737,10000,3.0,2,1854,6,4.0,8,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+2218,8316,4494966,2200,1.0,1,750,5,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2222,2485,33424854,2625,0.0,1,515,4,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2223,4816,64146549,1550,1.0,1,900,10,1.0,85,0,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+2226,1112,40128515,2700,1.0,1,900,2,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2228,9251,97789310,2500,1.0,1,665,5,4.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+2241,4022,63252723,4750,4.0,2,964,6,4.0,112,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2242,7707,80234585,2150,0.0,1,420,5,6.0,96,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2243,8180,35214345,2700,2.0,1,750,3,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2249,10262,23741299,3875,1.0,1,784,6,3.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2253,2732,39083448,2100,2.0,1,1000,0,1.0,115,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2255,10749,77305700,4400,2.0,2,1100,7,3.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2259,8999,46651061,2800,1.0,1,700,7,1.0,101,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+2263,10860,39162884,2650,1.0,1,1000,5,2.0,91,0,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+2279,8848,9529390,2300,1.0,1,650,2,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2280,1254,82658811,3630,1.0,1,667,1,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2283,3207,58815313,4416,3.0,1,900,9,4.0,96,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2284,931,98379673,2000,2.0,1,1000,6,3.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2286,9209,29309014,2275,1.0,1,500,8,4.0,96,1,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2287,9762,18641264,2999,2.0,1,750,3,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2288,7184,94398167,2975,3.0,1,723,4,2.0,85,1,0,0,0,0,0,0,0,Gowanus,Northwest Brooklyn,Brooklyn
+2299,1910,10574372,2854,1.0,1,605,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2307,10281,50198845,2700,0.0,1,908,6,1.0,101,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2310,8893,80939102,3750,1.0,1,696,2,15.0,3,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+2311,7197,1828100,3800,1.0,1,1100,4,4.0,96,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2312,5261,48753921,3600,3.0,1,1000,2,2.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+2322,3108,97142544,4400,1.0,1,725,4,2.0,9,0,0,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+2327,5530,26659899,3400,1.0,1,753,1,5.0,10,1,0,0,0,0,1,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2341,4633,83157845,3200,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2346,10806,54112288,3400,1.0,1,739,2,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2348,8850,7163201,2650,0.5,1,490,5,23.0,8,0,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2359,8289,14842171,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2360,6073,45686075,6995,3.0,3,1467,1,4.0,4,1,0,1,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2363,8234,96767093,8900,3.0,2,1709,6,3.0,88,1,0,0,0,0,0,1,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2364,4854,54139556,3200,1.0,1,750,1,2.0,115,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2366,10843,971247,2500,1.5,1,800,9,4.0,116,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+2377,6523,81552123,1800,0.0,1,350,6,1.0,11,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2381,8299,65424712,1600,0.0,1,600,4,5.0,59,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2384,1456,82063493,4100,1.0,2,723,5,4.0,86,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2386,3167,95694339,1800,1.0,1,900,6,1.0,56,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2395,4024,93270979,2899,2.0,1,750,4,4.0,9,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2403,4708,63662110,2400,2.0,1,800,6,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2405,5845,25274756,1900,0.0,1,453,5,2.0,6,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2409,8537,48643334,3475,1.5,1,1275,3,2.0,115,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2410,8631,6103895,4600,2.0,2,1034,5,6.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2418,4773,59003976,3000,3.0,1,900,2,1.0,85,1,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+2422,6510,70136198,2750,1.0,1,550,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2430,5491,33949660,2700,2.0,1,800,7,11.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2434,4645,59762408,2200,2.0,1,900,5,3.0,10,0,0,0,0,0,0,0,0,Midwood,South Brooklyn,Brooklyn
+2442,4659,204846,4899,4.0,3,1500,6,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2444,1782,32291908,3200,1.0,1,700,4,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2448,4466,22254989,3300,1.0,1,733,2,11.0,90,0,0,0,0,1,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2455,2669,5770309,5300,2.0,2,1400,3,9.0,114,0,0,1,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+2457,5360,10210968,3150,1.5,1,1000,8,3.0,9,0,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2462,3193,30668825,5630,2.0,2,974,6,6.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2464,9380,3726444,4349,3.5,3,1900,5,1.0,85,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2466,10186,63465796,1750,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2474,6983,14842171,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2477,4537,30668825,2734,0.0,1,515,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2483,8664,46834143,2000,1.0,1,525,3,4.0,116,0,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+2485,3140,66391336,2500,1.0,1,706,1,3.0,9,1,0,0,0,0,0,1,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2493,6949,50408651,2550,1.0,1,450,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2502,343,6103895,2850,1.0,1,620,5,4.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2504,2494,58623698,3570,0.0,1,876,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2506,6296,40196675,2875,3.0,1,1550,8,2.0,86,1,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2507,2487,33424854,3256,1.0,1,669,4,35.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2510,1391,10574372,3025,1.0,1,655,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2513,11226,25024137,2699,2.0,1,800,3,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2523,10637,66146217,1550,1.0,1,682,4,1.0,96,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2526,808,60823093,1975,1.0,0,500,5,2.0,106,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+2527,9777,53717970,1650,1.0,1,650,7,19.0,92,0,0,0,0,0,0,0,0,Brownsville,East Brooklyn,Brooklyn
+2529,3948,45048458,1800,1.0,1,700,3,2.0,115,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2532,1995,25294143,2500,2.0,1,1000,4,2.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2535,837,62009406,4100,2.0,1,988,3,3.0,7,1,1,0,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+2538,5202,58623698,4620,2.0,2,876,3,7.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2548,6759,90964935,3250,4.0,1,1400,9,2.0,106,1,1,1,1,1,1,1,1,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2549,3706,49859638,2200,1.0,1,800,6,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2554,601,13621111,3800,2.0,1,1700,5,1.0,8,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2564,1082,82658811,3680,1.0,1,675,1,39.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2568,9689,57792653,2965,2.0,2,868,4,3.0,8,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+2573,2955,86264910,2600,3.0,2,900,8,2.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2575,6959,50408651,2750,1.0,1,550,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2582,5824,72944010,1800,0.0,1,500,7,6.0,96,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2588,5525,67073175,1475,1.0,1,675,7,10.0,92,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2589,6588,7998043,2400,2.0,1,900,5,3.0,88,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2590,4358,58623698,3325,1.0,1,683,3,3.0,7,1,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2591,10471,24832033,2300,2.0,1,800,1,1.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+2593,663,39031597,2856,0.0,1,615,8,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2596,8908,93684714,2840,1.0,1,561,1,10.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2598,10397,25024137,3199,0.0,1,710,3,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2601,4661,93391414,3400,1.0,1,684,6,1.0,6,1,1,0,0,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+2608,9665,85097960,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2609,9797,18842960,2769,2.0,1,900,4,1.0,86,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2616,7084,82658811,3500,1.0,1,675,1,38.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2617,9976,48110398,4190,2.0,1,800,7,2.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2619,9980,81552123,2999,2.0,1,1000,6,4.0,11,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2624,3129,68023100,2200,2.0,1,900,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2636,2567,62551921,2750,1.0,1,675,3,3.0,85,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2638,5173,98666088,3600,3.0,1,800,7,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2639,1005,8618856,1900,1.0,1,625,4,3.0,88,0,1,1,1,1,0,1,1,Williamsburg,North Brooklyn,Brooklyn
+2640,10030,41904387,1750,1.0,1,874,5,5.0,55,0,1,1,1,1,1,0,1,Ocean Parkway,South Brooklyn,Brooklyn
+2643,6859,47854919,2100,2.0,1,1082,1,4.0,58,1,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+2649,6989,2922617,4100,2.0,1,900,2,68.0,8,0,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2654,2455,85991689,6320,3.0,3,1450,6,30.0,7,0,0,1,0,0,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2660,11199,17241755,3390,2.0,1,1500,3,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2661,10017,28635327,2300,3.0,1,850,7,1.0,92,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2662,10960,11176577,2125,2.0,1,1140,6,6.0,57,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2663,9456,2922617,3784,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2664,912,62009406,6500,2.0,2,1336,3,7.0,7,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2669,9781,16797111,2000,2.0,1,850,1,2.0,85,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+2670,10773,18255258,2400,1.0,1,746,2,1.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+2676,10225,10574372,5039,2.0,2,1071,7,7.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2680,5201,58623698,3515,1.0,1,683,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2687,6502,85264085,3100,1.0,1,1000,5,1.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2690,6610,14842171,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2691,6656,82063493,5405,1.0,1,666,5,7.0,86,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2695,3593,41524649,3195,1.5,2,900,4,3.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2696,10216,73670176,4700,1.0,1,700,1,2.0,1,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2704,7814,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+2719,1905,89950046,2350,1.0,1,650,4,1.0,14,0,0,1,1,1,1,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+2720,6608,2922617,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2729,6984,14842171,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2736,497,66802758,3500,1.0,1,731,1,3.0,96,1,0,1,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2744,10720,84061328,5100,3.0,2,1300,3,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2758,5049,89892173,2650,0.0,1,444,3,2.0,16,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2765,6994,73197853,1575,1.0,1,775,2,2.0,27,1,0,1,1,1,0,0,1,Coney Island,South Brooklyn,Brooklyn
+2766,8484,32591972,1800,1.0,1,700,3,3.0,112,0,0,0,0,0,0,0,0,Sunset Park,South Brooklyn,Brooklyn
+2772,4657,57073369,4583,4.0,2,1000,6,4.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2780,10764,85233731,5800,2.0,2,1372,6,9.0,10,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2788,5073,45012515,2149,1.0,1,825,5,16.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+2790,11160,98589816,1800,1.0,1,850,9,1.0,55,0,0,0,1,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+2794,4830,55830971,5200,3.0,2,1400,1,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2796,6424,82658811,2475,0.0,1,402,1,30.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2802,9262,25024137,2999,0.0,1,820,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2809,11043,72456320,1800,1.0,1,650,5,1.0,91,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2813,6558,36761941,2875,0.0,1,648,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2823,9335,43372230,4100,2.5,2,1650,8,7.0,117,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+2824,6297,33044796,1825,1.0,1,806,8,2.0,86,1,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+2828,1568,39211404,3150,2.0,2,1300,10,5.0,1,0,0,0,0,0,0,0,0,Manhattan Beach,South Brooklyn,Brooklyn
+2829,1821,52767367,6250,3.0,3,1900,2,2.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+2835,4364,7691267,3485,2.0,1,1200,8,1.0,11,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2852,2149,10576192,2300,1.0,1,500,11,3.0,96,0,0,0,0,0,0,0,0,Red Hook,Northwest Brooklyn,Brooklyn
+2853,3101,14712360,3100,1.0,1,722,2,12.0,89,0,1,1,1,1,1,0,1,Fort Greene,Northwest Brooklyn,Brooklyn
+2864,10405,59900724,3025,2.0,1,800,2,2.0,86,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2872,2768,36298196,2200,0.0,1,444,1,12.0,9,0,1,1,0,1,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2873,4662,92011396,4033,2.0,2,830,2,5.0,5,0,0,1,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2885,6307,14802854,1500,0.0,1,300,3,6.0,90,0,0,0,1,1,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2892,3590,82831544,3595,1.0,1,675,1,6.0,106,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+2896,6300,1976179,2300,2.0,1,650,3,2.0,106,1,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+2906,3685,92011396,3210,1.0,1,646,2,6.0,5,0,0,0,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+2907,10771,75368003,4200,4.0,1,1850,5,2.0,85,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+2908,3809,21330430,3999,2.0,2,1200,1,21.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2909,6287,11290383,1650,1.0,1,713,11,3.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+2917,7914,53569564,3671,0.0,1,569,5,5.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+2918,3968,38768270,2125,2.0,1,1157,7,7.0,56,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2919,3940,30668825,2625,0.0,1,472,6,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2920,2159,77016788,2200,2.0,1,800,4,3.0,101,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2931,3935,66896708,1675,2.0,1,900,14,7.0,50,0,0,0,0,0,0,0,0,East Flatbush,South Brooklyn,Brooklyn
+2932,6853,38768270,2000,2.0,1,1139,7,5.0,56,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+2936,10467,92011396,2450,0.0,1,441,2,2.0,5,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2939,9787,33981384,2000,2.0,1,800,2,3.0,91,0,0,0,0,0,0,0,0,East Flatbush,South Brooklyn,Brooklyn
+2944,6531,51127725,4245,1.0,1,762,4,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2955,11319,25024137,3350,3.0,1,1000,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2958,4110,78880422,2550,1.5,1,800,8,4.0,95,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+2966,2825,67469583,1450,0.0,1,450,4,4.0,85,0,0,0,0,1,0,0,0,Kensington,South Brooklyn,Brooklyn
+2967,1816,17264575,3000,2.0,2,950,7,5.0,7,0,1,1,1,1,1,0,1,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+2970,3631,22938630,1971,1.0,1,845,2,16.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+2976,517,88668971,3434,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+2981,803,89148793,3500,2.0,2,950,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2983,5222,83863916,4200,2.0,2,1126,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2984,2214,80123104,2650,1.0,1,634,8,4.0,143,1,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+2985,2978,9637623,2500,2.0,2,1150,6,4.0,3,0,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+2990,7304,10574372,5250,2.0,2,1135,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+2991,9291,21330430,12000,3.0,2,2093,1,52.0,3,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+2995,10900,70382431,2350,3.0,1,1200,3,2.0,111,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+3001,3804,78923670,2550,1.0,1,650,4,3.0,11,0,1,1,1,1,1,0,1,Clinton Hill,Northwest Brooklyn,Brooklyn
+3002,1165,88520811,3490,1.0,1,578,1,26.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3007,5918,10574372,2891,1.0,1,665,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3015,11260,25024137,2685,1.0,1,800,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3024,4614,84546285,4200,3.0,2,1000,2,3.0,10,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3025,2564,296567,2000,3.0,2,1200,13,7.0,50,0,0,0,0,0,0,0,0,East Flatbush,South Brooklyn,Brooklyn
+3036,8148,59637822,4500,2.0,2,1000,8,2.0,117,0,0,0,0,0,0,0,0,Columbia St Waterfront District,Northwest Brooklyn,Brooklyn
+3042,6902,27661112,2950,2.0,2,870,8,1.0,12,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+3057,9164,62009406,4354,1.0,1,924,3,7.0,7,1,1,0,1,1,0,1,1,DUMBO,Northwest Brooklyn,Brooklyn
+3058,4863,36761941,3300,1.0,1,735,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3064,8634,48645350,3695,1.0,1,813,5,8.0,6,0,0,0,0,0,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+3068,10591,11541060,5195,3.0,1,950,5,3.0,89,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3070,5029,88520811,3595,1.0,1,706,1,30.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3071,5485,96767093,3200,1.0,1,815,6,6.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3074,5744,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,East Brooklyn,Brooklyn
+3075,8955,52414611,2850,1.0,1,800,2,4.0,86,0,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+3076,6286,11290383,2075,2.0,1,1146,11,2.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+3082,796,31045636,1725,1.0,1,650,2,3.0,88,1,0,0,0,0,0,0,0,Ocean Parkway,South Brooklyn,Brooklyn
+3103,7316,80015475,2200,1.0,1,400,6,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3115,2909,71416926,1550,1.0,1,725,2,2.0,92,0,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+3117,8021,1828100,2750,1.0,1,650,4,4.0,96,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3118,6944,25535458,2500,1.0,1,1000,2,1.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3125,4302,4062336,4050,1.0,1,805,3,2.0,116,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3126,770,78677359,3200,2.0,1,1000,5,3.0,58,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3149,3234,24224693,2800,3.0,1,1000,1,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3150,5018,40234462,2495,2.0,1,900,5,7.0,57,0,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+3151,7610,82658811,2665,0.0,1,503,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3152,4499,91024449,4500,5.0,2,1600,6,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3155,7661,93684714,3825,2.0,1,822,1,18.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3156,7880,36761941,3400,1.0,1,717,8,4.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3158,7447,50551718,2745,1.0,1,750,10,7.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+3161,9337,88377790,9495,2.0,2,2000,1,22.0,10,0,0,1,1,1,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3164,8304,14014076,2550,1.0,1,700,9,2.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3165,5793,90580778,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3170,6625,36215714,2300,0.0,1,500,13,2.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+3173,5014,99155070,4750,2.0,1,1200,2,1.0,10,0,0,0,0,1,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3175,10947,63775229,2500,3.0,1,1200,3,4.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3179,10927,81810691,3525,3.0,2,1800,11,1.0,117,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3187,10826,50556590,2600,0.0,1,492,2,2.0,5,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3188,4542,34465991,3400,2.0,1,800,8,4.0,15,0,0,1,0,1,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+3190,1186,53972210,2215,0.0,1,550,7,8.0,6,0,1,1,1,1,1,0,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3202,617,36517471,5100,3.0,1,1350,4,5.0,90,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3203,6596,15094736,3300,3.0,1,975,7,3.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3208,5407,74792364,2800,1.5,1,800,4,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3209,2990,87930690,5210,2.0,1,888,5,5.0,114,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3211,6148,76189837,2300,1.0,1,450,6,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3214,7102,50551427,2600,2.0,2,1100,3,7.0,91,0,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+3220,821,75007195,4750,2.0,2,1327,4,9.0,86,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3222,2128,10574372,4303,2.0,1,797,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3223,7749,12570842,5300,2.0,1,1175,4,4.0,112,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3226,2344,61877262,2050,2.0,1,785,6,3.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3227,3694,68483403,4995,1.0,1,1293,5,6.0,100,0,1,0,0,0,1,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3242,9637,44656353,2350,1.0,1,800,3,4.0,0,1,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+3243,4285,96767093,3450,1.0,1,800,6,6.0,88,0,0,1,1,1,1,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3244,5521,11893514,4250,2.0,2,985,6,2.0,11,0,1,1,1,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+3248,6153,23590340,2400,2.0,2,750,4,3.0,96,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3250,10366,82658811,2735,0.0,1,503,1,26.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3260,10636,80161961,2500,0.0,1,525,7,2.0,66,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3264,487,95895156,2750,2.0,1,875,4,2.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3267,3106,87527531,3200,2.0,1,1000,6,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3274,949,62009406,4075,2.0,1,1037,3,2.0,7,1,1,1,1,1,1,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+3280,446,5415622,2150,1.0,1,650,2,3.0,85,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3290,5015,48645350,6500,3.0,2,1398,5,21.0,6,1,1,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+3292,2202,14712360,3100,1.0,1,722,2,11.0,89,0,0,1,0,1,1,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+3305,8288,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,East Brooklyn,Brooklyn
+3306,8485,63537916,2350,2.0,1,750,2,3.0,86,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3312,10384,58623698,3450,0.0,1,875,3,3.0,7,1,1,0,1,1,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+3316,5223,83863916,4400,2.0,1,1200,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3320,4744,1284653,2250,2.0,2,1138,3,2.0,88,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+3328,9409,35214345,2800,2.0,0,775,3,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3330,11025,25024137,3299,0.0,1,710,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3333,3731,61582814,4800,2.0,2,1337,6,27.0,11,0,1,0,1,1,1,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3344,4549,15264370,2250,2.0,1,605,8,5.0,7,0,1,0,1,1,1,0,1,Crown Heights,East Brooklyn,Brooklyn
+3345,5281,83863916,3300,2.0,1,753,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3346,8657,50790985,3400,2.0,1,800,5,1.0,117,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+3348,4868,32355084,2100,1.0,1,650,1,3.0,85,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3349,9060,17241755,3349,2.5,1,1000,3,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3353,10578,54692852,3900,2.0,2,900,3,2.0,116,1,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+3355,488,3428368,2800,3.0,1,1200,8,4.0,62,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3357,10772,92625779,3650,3.0,1,1500,3,2.0,110,0,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+3360,6144,10574372,2891,1.0,1,665,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3363,254,89148793,3500,2.0,2,900,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3367,9327,83863916,4200,2.0,2,1128,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3373,3322,82658811,2815,0.0,1,505,1,46.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3381,2881,10574372,3896,2.0,1,841,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3384,6263,15175244,2800,2.0,1,900,8,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3385,9553,69131476,2750,3.0,2,1500,7,3.0,11,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3386,4320,36298196,2900,1.0,1,662,1,22.0,9,0,0,1,1,0,1,1,1,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3389,5502,43372230,4100,2.5,2,1400,8,7.0,117,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3390,8991,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3391,3766,97243,1650,1.5,1,750,7,2.0,88,0,0,0,0,0,0,0,0,Red Hook,Northwest Brooklyn,Brooklyn
+3394,5726,82658811,3495,1.0,1,675,1,41.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3397,541,38197313,3950,2.0,2,986,2,21.0,6,0,1,0,1,1,1,0,1,Fort Greene,Northwest Brooklyn,Brooklyn
+3402,9556,48753921,4000,3.0,1,1000,2,3.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+3406,8844,58623698,4995,2.0,2,1029,3,3.0,7,1,0,1,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3411,3376,82658811,3175,1.0,1,618,1,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3418,5417,53569564,3414,0.0,1,492,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3423,5723,14842171,3500,2.0,1,850,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3426,7721,64837942,4250,2.0,1,1000,4,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3427,7367,46385427,2000,1.0,1,650,3,3.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3431,6045,69131476,2850,3.0,2,1500,7,3.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3436,6626,69179366,2800,1.0,1,850,6,3.0,5,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3442,7408,61582814,3000,1.0,1,709,6,17.0,11,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3443,4363,29735121,1800,1.0,1,650,5,2.0,96,0,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+3445,7315,40027511,2800,1.0,1,637,3,3.0,6,1,0,0,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+3454,10565,23078664,2675,0.0,1,700,1,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3459,9259,57493665,3100,1.0,1,950,2,1.0,7,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3462,9094,89473686,3000,2.0,1,800,6,5.0,111,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3463,1770,36215714,2300,0.0,1,510,13,2.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+3464,3733,26659899,2995,1.0,1,557,1,4.0,10,0,1,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3467,9258,64747111,3758,2.0,1,875,8,4.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3472,10091,69385440,9000,2.0,4,3000,3,5.0,106,0,0,1,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+3479,7231,3698810,2600,1.0,1,710,5,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3481,9415,48645350,2850,0.0,1,602,5,8.0,6,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3489,4691,66696069,3100,1.0,1,750,2,3.0,52,0,0,1,0,0,1,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3498,7828,14842171,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3501,7479,10574372,5250,2.0,2,1135,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3503,7433,94563271,2580,0.0,1,473,5,4.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3507,6295,43175458,1675,1.0,1,753,5,2.0,58,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+3512,4113,97628456,2600,1.0,1,582,4,3.0,12,0,1,0,1,1,0,0,1,Park Slope,Prospect Park,Brooklyn
+3517,3328,58623698,3450,1.0,1,683,3,3.0,7,1,0,1,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+3520,9460,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,East Brooklyn,Brooklyn
+3527,1250,70486077,4024,1.0,1,836,6,2.0,106,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3531,4395,64308873,4100,1.0,1,806,4,7.0,6,0,1,0,0,1,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3539,7189,17778365,2850,2.0,1,750,4,1.0,116,0,0,0,0,0,0,0,0,Gowanus,Northwest Brooklyn,Brooklyn
+3542,2108,23741299,4400,2.0,1,878,6,3.0,8,1,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3545,4543,34465991,3400,2.0,1,800,8,2.0,15,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3549,3713,58985548,2850,2.0,1,900,6,1.0,85,0,0,0,0,1,0,0,0,Park Slope,Prospect Park,Brooklyn
+3551,7976,21330430,5995,2.0,2,1153,1,44.0,3,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3552,10297,36761941,5262,2.0,2,1188,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3555,8960,57792653,3950,3.0,2,1209,4,10.0,8,0,0,1,0,0,1,0,1,Greenwood,South Brooklyn,Brooklyn
+3560,5593,45050816,16000,3.0,3,2499,6,3.0,0,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3561,914,82249600,6600,2.0,2,1218,0,5.0,116,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3572,6867,69385440,2650,1.0,1,600,3,5.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3574,1891,96388415,5600,2.0,1,1494,6,3.0,106,1,1,0,1,1,1,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3576,7427,54112288,3450,1.0,1,739,2,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3577,11198,71073014,2699,3.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3579,10028,5770309,3500,1.0,1,966,3,1.0,114,0,0,1,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+3582,3288,56724744,4300,2.0,2,1088,7,11.0,5,1,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3587,5183,29482043,2950,2.0,1,850,5,3.0,11,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+3599,6432,68784010,2400,2.0,1,800,4,3.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3609,7442,87752910,2118,1.0,1,550,9,4.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+3613,9453,14383833,2900,3.0,1,1162,2,23.0,52,0,0,0,1,1,1,1,1,Coney Island,South Brooklyn,Brooklyn
+3617,6938,68415493,3600,2.0,1,1000,7,2.0,106,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3632,9551,58057132,3300,4.0,2,1000,8,2.0,85,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3633,1973,16257746,2499,3.0,1,1200,0,2.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3635,2238,75007195,3600,2.0,2,984,4,5.0,86,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3639,5858,3177156,2750,2.0,1,900,4,2.0,6,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3648,702,70683440,2500,1.0,1,500,2,1.0,49,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3650,8391,68798163,2300,1.0,1,700,4,5.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3654,3190,30668825,3337,1.0,1,677,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3660,1462,76720639,2800,1.0,1,750,11,3.0,58,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+3661,2692,5936578,3050,1.0,1,670,3,7.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3664,9397,82658811,2720,0.0,1,503,1,27.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3667,1722,93684714,3595,1.0,1,730,1,17.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3670,1292,22853118,2500,2.0,1,900,3,4.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3692,8054,77305700,2940,1.0,1,700,7,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3703,10007,78880422,2550,1.5,1,750,8,4.0,95,1,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3704,2602,78294978,3675,2.0,1,1000,3,1.0,111,1,0,1,0,1,1,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+3705,7789,29764332,3100,0.0,1,800,2,1.0,9,0,1,0,1,0,0,0,1,Williamsburg,North Brooklyn,Brooklyn
+3708,2715,55763162,3450,1.0,1,700,9,2.0,87,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3721,8178,35214345,5000,3.0,2,1000,3,1.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3722,4412,53911839,3117,1.0,1,740,8,1.0,116,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3727,7938,93879990,2600,2.0,1,725,5,3.0,66,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3740,4568,59271497,2800,2.0,1,900,4,8.0,5,1,0,1,0,0,0,0,0,Ditmas Park,South Brooklyn,Brooklyn
+3747,5636,22254989,3050,1.0,1,689,2,6.0,90,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3750,1648,5010522,2200,2.0,1,900,2,4.0,86,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3753,6133,14712360,11500,4.0,3,3243,2,41.0,89,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+3754,1255,58623698,2680,0.0,1,510,3,4.0,7,1,0,0,0,1,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+3757,8147,43484535,3350,3.0,1,1200,3,3.0,86,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3761,6605,10582450,4500,4.5,2,2000,8,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3763,11115,66763796,3100,2.5,1,950,7,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3764,9867,85097960,3099,2.0,1,750,3,7.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3768,2780,85717393,4200,1.0,1,895,6,6.0,5,0,0,0,0,0,0,1,0,Williamsburg,North Brooklyn,Brooklyn
+3774,11208,22938630,2474,2.0,1,1267,2,4.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+3777,10420,86693265,8500,3.0,3,2500,4,1.0,7,0,1,0,1,1,0,0,1,Park Slope,Prospect Park,Brooklyn
+3787,807,89892173,3650,1.0,1,662,3,7.0,16,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3791,5129,76146604,1590,0.0,1,350,3,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3793,6855,25017078,1675,1.0,1,788,6,4.0,59,1,1,0,1,1,0,0,1,Gravesend,South Brooklyn,Brooklyn
+3794,10111,33745965,3595,1.0,1,932,7,2.0,11,0,0,0,1,1,1,0,1,Williamsburg,North Brooklyn,Brooklyn
+3803,4169,53569564,6426,2.0,2,963,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3812,5638,94658633,2050,2.0,1,985,3,6.0,59,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+3813,8977,3384154,2150,0.0,1,687,1,3.0,11,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3815,7368,38964536,2745,2.0,1,800,3,2.0,116,1,0,0,0,0,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+3822,4954,86231687,3500,1.0,1,1135,4,1.0,86,0,0,1,1,1,1,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3827,2331,7163201,5999,2.0,2,1110,5,17.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3829,9008,23886023,3300,1.0,1,781,2,4.0,10,1,0,0,1,1,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+3833,10584,9491303,2123,1.0,1,751,6,32.0,89,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+3843,11046,51102675,3500,2.0,1,900,9,2.0,131,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3845,10338,36215714,2250,0.0,1,500,13,1.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+3846,560,82658811,3680,1.0,1,618,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3848,1252,82658811,2445,0.0,1,470,1,50.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+3858,9892,23886023,5699,3.0,2,1232,2,6.0,10,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+3864,1455,4062336,5860,2.0,2,1072,3,1.0,116,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+3884,10432,92011396,2450,0.0,1,441,2,2.0,5,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3889,6457,88158443,1400,1.0,1,650,2,3.0,82,0,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+3890,2649,88520811,3170,1.0,1,590,1,21.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+3900,3150,51840066,3350,2.5,1,850,8,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3901,8315,93391414,4650,2.0,2,1056,6,7.0,6,1,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3903,3315,12097469,1850,1.0,1,790,4,2.0,85,0,0,0,0,0,0,0,0,Ditmas Park,South Brooklyn,Brooklyn
+3905,10689,99155070,4495,2.0,1,1000,2,8.0,10,1,0,0,1,1,0,1,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3916,2986,50556590,3400,1.0,1,654,2,6.0,5,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3918,7234,40291653,1500,1.0,1,700,6,2.0,60,0,1,1,1,1,1,0,1,Ocean Parkway,South Brooklyn,Brooklyn
+3923,8553,36761941,5000,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3926,10016,23984842,5295,3.0,1,1100,5,2.0,1,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3927,6609,14842171,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3928,3228,95056292,1900,2.0,1,700,5,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3942,1562,29444531,1800,1.0,1,650,13,2.0,117,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+3943,5296,45686075,4100,1.0,1,878,1,2.0,4,1,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3950,939,54978873,2000,0.0,1,450,43,2.0,107,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3955,6593,39031597,3465,0.0,1,785,8,6.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3958,4262,66503950,2195,0.0,1,900,3,4.0,85,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+3961,3727,7163201,2650,0.0,1,490,5,17.0,8,0,1,0,1,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3962,8950,58666729,1695,1.0,1,798,4,1.0,59,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+3964,8171,35227448,3700,2.0,1,990,6,1.0,5,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+3965,8047,85079948,4000,2.0,1,1566,9,2.0,91,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+3967,4529,10401473,2850,2.0,1,800,7,2.0,96,1,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+3968,9356,51767176,3400,3.0,2,1500,4,1.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+3984,10768,13750537,1850,0.0,1,700,2,3.0,106,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+3986,4653,45563427,7250,3.0,2,1613,0,4.0,5,0,1,1,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+3991,6164,10574372,2891,1.0,1,604,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+3994,2579,82658811,4190,2.0,2,976,1,8.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4003,8483,80123104,3300,2.5,1,900,8,4.0,143,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+4005,7791,21949489,1995,1.0,1,600,3,3.0,115,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+4017,10746,64837942,5100,4.0,2,1300,4,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4019,2117,61165540,2550,2.0,1,900,7,1.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4022,6293,70700254,1275,0.0,1,490,4,7.0,56,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+4023,1649,94563271,3225,0.0,1,490,5,7.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4036,9174,31922845,2600,1.0,1,900,6,1.0,117,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+4045,9883,25395446,3800,3.0,1,1250,3,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4047,4943,38231260,3295,2.0,2,1000,9,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4051,6011,36628282,3750,2.0,2,1060,3,4.0,6,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4052,2786,220733,2600,2.0,1,700,8,2.0,86,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4063,6993,90580778,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4065,3410,21330430,4500,2.0,2,1042,1,43.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4072,3331,91386758,3200,2.0,1,1000,4,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4080,9385,38768270,1695,1.0,1,719,7,6.0,56,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+4084,9648,9295280,4325,2.0,2,1130,2,2.0,6,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4090,7901,58162359,2400,2.0,1,1200,18,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4105,2696,65438219,1700,0.0,1,450,2,2.0,77,0,0,1,0,1,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+4111,3243,95056292,1846,2.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4119,5715,90580778,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4129,3846,6103895,2700,1.0,1,617,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4135,5680,6981308,3300,2.0,1,900,6,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4139,1063,48670916,2251,2.0,1,900,5,3.0,55,0,0,0,0,0,0,0,0,Kensington,South Brooklyn,Brooklyn
+4145,1698,46442466,4200,1.0,1,925,4,2.0,106,0,0,0,0,1,1,0,0,Williamsburg,North Brooklyn,Brooklyn
+4149,7169,98228433,2675,2.0,1,1000,5,5.0,8,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4151,6278,27720840,4000,3.0,1,1000,4,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4152,1021,10574372,3029,1.0,1,655,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4154,8199,92513042,2500,3.0,1,1000,1,1.0,76,0,0,0,0,0,0,0,0,Sunset Park,South Brooklyn,Brooklyn
+4160,6742,53569564,3138,0.0,1,440,5,8.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+4167,2688,66968602,3250,1.0,1,680,3,5.0,116,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4168,5318,89020281,3700,4.0,1,1000,4,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4176,4982,36761941,5900,3.0,2,1248,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4177,1523,83863916,6650,4.0,2,1501,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4185,4869,26802857,2500,2.0,1,800,6,3.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4191,9373,73463665,1450,1.0,1,700,12,5.0,78,0,0,0,0,0,0,0,0,East Flatbush,South Brooklyn,Brooklyn
+4194,6854,25017078,1375,0.0,1,552,6,4.0,59,1,0,0,0,0,0,0,0,Gravesend,South Brooklyn,Brooklyn
+4197,10929,92011396,4300,2.0,2,915,2,3.0,5,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4202,60,56724744,4800,2.0,2,1100,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+4210,7549,13646369,2100,2.0,1,1095,13,6.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,South Brooklyn,Brooklyn
+4216,10532,15094736,1875,0.0,1,500,7,1.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+4221,2003,25347503,3099,3.0,2,1000,3,2.0,85,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4226,4431,42310948,3942,2.0,2,1154,10,9.0,6,1,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4234,187,51127725,2765,1.0,1,405,4,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4237,9964,50556590,2400,0.0,1,492,2,2.0,5,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4240,10657,86281947,2400,2.0,1,700,3,1.0,85,0,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+4247,3900,88520811,3080,1.0,1,590,1,11.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+4248,9754,971247,2500,1.5,1,800,9,4.0,116,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+4252,10112,76218272,1795,1.0,1,900,8,6.0,78,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+4253,6617,90580778,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4270,113,82658811,4595,2.0,2,900,1,44.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4281,8034,57128322,1795,1.5,1,850,4,2.0,111,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4284,9056,66530427,3000,2.0,1,1000,6,4.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4286,7842,93684714,2585,0.0,1,408,1,12.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4294,525,30668825,3495,1.0,1,620,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4295,754,95895156,2695,2.0,1,900,4,2.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4322,6031,14741750,3200,1.0,1,850,3,4.0,96,0,1,1,1,1,1,1,1,Fort Greene,Northwest Brooklyn,Brooklyn
+4327,4432,11176577,1875,2.0,1,930,6,4.0,57,1,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+4330,2080,12068815,3100,1.0,1,664,9,8.0,4,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4339,2720,82658811,2930,1.0,1,618,1,9.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4344,5866,46027864,4250,2.0,2,976,7,3.0,8,0,0,0,1,1,1,0,1,Greenpoint,North Brooklyn,Brooklyn
+4347,9271,57493665,3100,1.0,1,675,2,2.0,7,1,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4350,6913,72295456,1400,1.0,1,650,2,2.0,85,0,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+4357,4880,31980802,1650,0.0,1,250,2,10.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4362,1644,751782,3000,3.0,2,1150,11,1.0,12,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4364,11204,22938630,2383,2.0,1,1130,2,3.0,52,1,0,0,0,0,0,0,0,Coney Island,South Brooklyn,Brooklyn
+4366,10585,9491303,2769,3.0,1,1438,6,22.0,89,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+4368,11195,91179322,2764,1.0,1,648,3,7.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Prospect Park,Brooklyn
+4378,1185,53136208,2550,2.0,1,850,4,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4382,11054,83863916,2658,0.0,1,618,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4387,5446,66373509,4200,2.0,2,955,9,5.0,16,0,0,0,1,1,0,0,0,Park Slope,Prospect Park,Brooklyn
+4388,7866,84881567,2800,3.0,1,2500,4,6.0,53,0,0,0,1,1,0,0,0,Ocean Parkway,South Brooklyn,Brooklyn
+4390,6036,17913308,1800,2.0,2,1000,3,2.0,111,1,0,0,0,0,0,0,0,East New York,East Brooklyn,Brooklyn
+4392,2865,8456299,2735,2.0,1,890,2,5.0,9,1,0,1,1,1,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4397,6283,35227448,2800,1.0,1,700,6,2.0,5,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4399,3438,53548083,1850,1.0,1,650,7,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4405,213,69987614,3200,3.0,1,1150,6,3.0,111,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4417,3180,17536561,2975,0.0,1,1000,7,3.0,79,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4418,5559,66044925,1846,0.0,1,558,3,4.0,76,1,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+4419,4185,24970727,3850,2.0,1,753,3,4.0,109,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4420,6992,14842171,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4421,433,40988625,3050,4.0,2,1000,6,2.0,81,0,0,0,0,0,0,0,0,Flatbush,South Brooklyn,Brooklyn
+4422,1785,32291908,4900,2.0,2,1071,4,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4424,6308,63537916,2600,2.0,1,850,2,4.0,86,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4427,3461,27905683,3100,1.0,2,948,4,2.0,12,0,0,0,1,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4447,2258,16183838,2850,3.0,1,1000,3,4.0,116,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4449,6289,94815241,2450,2.0,2,1156,3,4.0,57,1,0,0,0,0,0,0,0,Sunset Park,South Brooklyn,Brooklyn
+4450,6578,83599035,6850,3.0,2,1691,7,8.0,100,0,0,0,1,0,0,1,0,Williamsburg,North Brooklyn,Brooklyn
+4452,8411,52265000,2000,2.0,1,1000,2,2.0,106,0,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4453,7174,66146217,1550,1.0,1,682,4,3.0,96,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4456,10280,51816870,2200,1.0,1,700,4,1.0,106,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4467,3052,17536561,3500,0.0,1,1200,7,6.0,79,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4469,3434,96767093,4000,0.0,1,1100,6,3.0,88,0,0,0,1,1,0,0,1,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+4477,5785,64319030,4600,2.0,2,1463,4,1.0,8,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+4479,8832,23947861,4350,2.0,2,2200,43,1.0,10,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4483,5970,85097960,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4496,6281,93273924,2400,1.0,1,800,1,7.0,70,0,1,0,1,1,1,0,1,Clinton Hill,Northwest Brooklyn,Brooklyn
+4501,4084,19613377,3000,1.0,1,600,0,4.0,96,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+4503,8477,92860418,1925,1.0,1,860,2,1.0,12,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4509,7214,47757244,2400,1.0,1,850,9,4.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Northwest Brooklyn,Brooklyn
+4511,9735,49059863,2700,2.0,1,1000,4,5.0,4,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4517,3647,93684714,4395,2.0,2,977,1,16.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4520,6618,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,East Brooklyn,Brooklyn
+4532,10132,14842171,3295,2.0,1,950,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4537,7467,80015475,2200,1.0,1,400,6,4.0,96,0,0,0,1,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4558,5862,3726444,4395,4.0,3,1200,5,1.0,85,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4563,159,93684714,3595,1.0,1,822,1,6.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4570,4454,2741748,2700,1.0,1,680,8,2.0,9,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4571,6991,70136198,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,East Brooklyn,Brooklyn
+4572,3760,60576888,3700,2.0,2,1186,9,4.0,8,0,0,0,0,0,0,1,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4581,6309,36761941,5900,3.0,2,1248,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4594,10792,36215714,3550,2.0,2,1100,13,3.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+4598,8836,30668825,3241,1.0,1,672,6,1.0,2,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4599,27,79713930,2600,1.0,1,800,2,2.0,88,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4601,8917,85097960,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4607,900,94398167,3250,3.0,1,749,4,2.0,85,0,0,0,0,0,0,0,0,Gowanus,Northwest Brooklyn,Brooklyn
+4610,6735,18278306,4500,2.0,2,1028,10,4.0,10,0,0,1,0,1,0,0,1,Prospect Heights,Prospect Park,Brooklyn
+4616,9699,7328352,1995,2.0,1,900,7,2.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4617,5287,16121797,2100,0.0,1,425,4,3.0,96,0,0,0,0,0,0,0,0,Fort Greene,Northwest Brooklyn,Brooklyn
+4619,10175,56973226,3895,4.0,1,1100,4,2.0,106,1,1,1,1,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4624,6291,51495991,1625,0.0,1,456,6,4.0,54,1,0,0,0,0,0,0,0,Windsor Terrace,Prospect Park,Brooklyn
+4626,1906,89950046,3000,2.0,1,750,4,2.0,14,0,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+4628,6253,17020325,1475,0.0,1,600,6,2.0,56,0,0,0,0,0,0,0,0,Bay Ridge,South Brooklyn,Brooklyn
+4631,2458,71073014,2700,3.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4633,11201,83863916,4025,2.0,2,1050,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4642,6163,83863916,3850,2.0,2,1026,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4649,10607,53569564,4190,1.0,1,621,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Northwest Brooklyn,Brooklyn
+4652,5107,55174782,4200,2.0,2,1062,2,3.0,10,0,0,1,0,0,1,1,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+4654,9305,17264575,2500,1.0,1,760,7,3.0,7,1,1,0,1,1,1,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4656,10365,82658811,2480,0.0,1,402,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4661,4140,94467844,2875,0.0,1,508,10,8.0,116,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4663,713,78406110,2150,3.0,1,1000,3,3.0,106,1,0,0,1,1,1,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4666,5411,25024137,3899,0.0,1,1040,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4673,6611,14842171,3500,2.0,1,850,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4684,11068,24299812,2500,2.0,1,800,3,3.0,86,0,0,0,0,0,0,0,0,Greenwood,South Brooklyn,Brooklyn
+4706,3521,50179084,1850,1.0,1,600,2,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4709,6741,88952527,3270,0.0,1,470,5,2.0,85,1,0,0,0,0,0,0,0,Cobble Hill,Northwest Brooklyn,Brooklyn
+4711,1766,61582814,3100,1.0,1,709,6,31.0,11,0,0,0,1,1,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4713,7641,41654182,3300,0.0,1,1000,11,3.0,116,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4733,6960,50408651,2635,1.0,1,550,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4740,6434,35227448,4500,3.0,2,1500,6,3.0,5,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4755,6059,88181348,2250,1.0,1,650,9,5.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4758,10622,41058562,3375,2.0,1,1200,3,1.0,11,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4768,4729,97142544,3350,1.0,1,719,4,3.0,9,1,0,0,1,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4771,1180,26659899,3195,1.0,1,801,1,12.0,10,0,0,1,1,1,0,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+4776,1280,64768463,3184,3.0,2,900,1,4.0,117,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4779,592,25024137,3099,0.0,1,710,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4800,9244,36761941,6923,3.0,2,1274,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4802,8228,93684714,4595,2.0,2,1051,1,11.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4803,5854,27521873,2300,2.0,1,750,7,4.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4817,2486,33424854,2660,0.0,1,496,4,26.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4818,3118,95133668,2100,0.0,1,375,3,4.0,174,0,0,0,0,0,0,0,0,Brooklyn Heights,Northwest Brooklyn,Brooklyn
+4824,9441,9798647,3950,2.0,1,1150,5,3.0,116,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4827,10180,95511856,2250,2.0,1,900,5,3.0,109,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4828,1424,83863916,3300,1.0,1,938,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4833,6699,79776751,1850,1.0,1,700,7,7.0,54,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Prospect Park,Brooklyn
+4836,5066,88377790,4600,2.0,2,1169,1,4.0,10,1,1,0,1,1,1,0,1,DUMBO,Northwest Brooklyn,Brooklyn
+4842,7699,80234585,3000,1.0,1,670,5,6.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4843,3394,13504178,3800,2.0,1,1000,7,2.0,95,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4846,3747,40117173,4700,3.0,2,1600,4,1.0,85,0,0,0,0,0,0,0,0,Prospect Heights,Prospect Park,Brooklyn
+4862,7725,54547474,1750,1.0,1,780,8,2.0,115,0,0,0,0,0,0,0,0,Brighton Beach,South Brooklyn,Brooklyn
+4864,1264,25024137,4150,0.0,1,885,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4871,2000,41523976,2300,1.0,1,800,4,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4873,8086,8300928,2300,2.0,1,750,3,1.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4877,9905,73424880,1600,0.0,1,500,5,1.0,115,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4882,5620,54581591,1850,1.0,1,700,6,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4887,8992,2922617,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4888,4212,26340900,2750,1.0,1,698,12,4.0,9,1,0,0,0,1,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4891,3904,68483403,16000,2.0,3,2592,5,9.0,100,0,1,0,0,0,1,1,1,DUMBO,Northwest Brooklyn,Brooklyn
+4898,6004,23549979,1900,1.0,1,800,2,3.0,105,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4906,1062,47794964,4000,2.0,1,950,1,3.0,115,0,0,0,0,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4907,2067,26340900,2850,1.0,1,800,12,3.0,9,0,0,0,0,0,0,0,0,Clinton Hill,Northwest Brooklyn,Brooklyn
+4911,9700,48810674,1795,2.0,1,750,5,1.0,85,0,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4914,9740,82658811,2580,0.0,1,469,1,19.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4915,6076,68035427,3500,4.0,2,1500,7,2.0,86,1,0,0,0,0,0,0,0,Bushwick,East Brooklyn,Brooklyn
+4941,3985,61784650,5300,2.0,2,1318,6,14.0,13,1,0,0,0,1,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4952,1329,93684714,3815,1.0,1,750,1,17.0,5,0,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4953,4163,19605010,1700,1.0,1,367,4,3.0,106,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,East Brooklyn,Brooklyn
+4956,4703,17756246,2800,1.0,1,735,1,2.0,96,0,0,0,1,0,0,0,0,Park Slope,Prospect Park,Brooklyn
+4961,10561,23078664,3900,2.0,2,1000,1,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4963,6440,65295306,3750,2.0,1,1400,1,2.0,117,0,0,0,0,0,0,0,0,Boerum Hill,Northwest Brooklyn,Brooklyn
+4965,3433,80161961,3700,2.0,2,848,7,2.0,66,1,0,0,0,0,0,0,0,Crown Heights,East Brooklyn,Brooklyn
+4967,7329,18850963,2300,1.0,1,900,5,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,North Brooklyn,Brooklyn
+4975,10286,62932024,3750,3.0,2,1531,1,1.0,10,0,0,1,1,1,1,0,0,Crown Heights,East Brooklyn,Brooklyn
+4978,9169,22224973,4000,2.0,1,1080,5,1.0,117,0,0,0,0,0,0,0,0,Williamsburg,North Brooklyn,Brooklyn
+4983,1721,93684714,4200,2.0,2,977,1,5.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Northwest Brooklyn,Brooklyn
+4990,1676,86914672,18000,3.0,2,2470,3,5.0,116,0,1,1,1,1,1,0,1,DUMBO,Northwest Brooklyn,Brooklyn
